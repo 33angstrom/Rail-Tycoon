@@ -1,2 +1,4 @@
 # Rail-Tycoon
-Complex and realistic railway engineering and managing simulation.
+Rail Tycoon: Complex and realistic railway engineering and managing simulation.
+
+Welcome!
